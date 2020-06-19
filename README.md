@@ -7,7 +7,7 @@ device configuration for Moto E6 (surfna)
 
 The Motorola Moto E5+ (codenamed _"surfna"_) is a low-mid range smartphone from Motorola mobility.
 
-It was announced in May 2018. Release date was July 2018.
+It was announced in July 2019. Release date was August 2019.
 
 ## Device specifications
 
