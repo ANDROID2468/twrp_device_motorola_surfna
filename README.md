@@ -25,4 +25,4 @@ It was announced in May 2018. Release date was July 2018.
 
 ## Device picture
 
-![Motorola Moto E6](https://www.tmonews.com/wp-content/uploads/2018/07/motoe5plustmobile-660x532.jpg "Moto E6 in blue")
+![Motorola Moto E6](https://raw.githubusercontent.com/ANDROID2468/twrp_device_motorola_surfna/android-9.0/motorola-moto-e6.jpg "Moto E6 in blue")
