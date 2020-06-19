@@ -19,7 +19,7 @@ It was announced in May 2018. Release date was July 2018.
 | Memory       | 2 GB RAM                                         | 
 | Shipped Android version | 9.0                                   | 
 | Storage      | 16 GB                                            |                                  
-| Battery      | Non-removable Li-Ion 5000 mAh                    |
+| Battery      | Removable Li-Ion 3000 mAh                        |
 | Display      | 720x1440 px, 18:9 ratio (~296 ppi density) 5.5in |
 | Camera       | 13 MP, f/2.0, 1/3.1", 1.12µm, PDAF, LED flash,   | 
 
